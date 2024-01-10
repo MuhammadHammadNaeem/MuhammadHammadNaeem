@@ -1,0 +1,102 @@
+body {
+    background-image: url(./images/abstract-background-cement-wall-shadow-light-concept.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 90%;
+}
+
+.Practice {
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(./images/O6NOHY0-removebg-preview.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-shadow: 2px 2px 15px;
+    text-align: center;
+
+}
+
+.One {
+    
+color: #000000;
+    text-align: center;
+    font-family: Arial Black;
+    font-size: 30px;
+    font-style: italic;
+    text-shadow: 2px 2px 15px;
+    margin: 100px;
+
+
+}
+
+.Two {
+
+    text-align: center;
+    color: #000000;
+    font-family: Arial Black;
+    font-size: 30px;
+    font-style: italic;
+    text-shadow: 2px 2px 15px;
+    margin: 100px;
+
+
+}
+
+.back {
+    text-decoration: none;
+    color: #ffffff;
+    text-align: center;
+font-size: 20px;
+    font-family: Arial, ;
+    background-color: rgb(12, 12, 12);
+    cursor: pointer;
+
+    box-shadow: 2px 2px 20px rgb(7, 7, 7);
+
+}
+.Two:link {
+    color: rgba(255, 0, 0, 0.822);
+}
+
+
+
+.Two:hover {
+    color: red;
+}
+
+.Two:active {
+    color: rgb(22, 0, 48);
+}
+.One:link {
+    color: rgba(255, 0, 0, 0.822);
+}
+
+
+
+.One:hover {
+    color: red;
+}
+
+.One:active {
+    color: rgb(22, 0, 48);
+}
+
+.back:link {
+    color: rgba(255, 0, 0, 0.822);
+}
+
+
+
+.back:hover {
+    color: red;
+}
+
+.back:active {
+    color: rgb(22, 0, 48);
+}
+
+
+
+
